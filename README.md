@@ -22,6 +22,7 @@ git push -u origin main
 ```
 ## Ejecución
 ```
+cd /mi-api
 node index.js
 ```
 ## Autenticación
